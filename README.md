@@ -1,6 +1,6 @@
 ## Integrating AWS Secrets Manager to EKS using External Secrets
 
-:page_facing_up: The files available in this repository are from the Creating Kubernetes secrets from AWS Secrets Manager post blog of [contains(cloud)](https://containscloud.com) ☁️
+:page_facing_up: The files available in this repository are from the [Integrating AWS Secrets Manager to EKS using External Secrets](https://containscloud.com/2024/03/24/integrating-aws-secrets-manager-to-eks-using-external-secrets/) post blog of [contains(cloud)](https://containscloud.com) ☁️
 
 :computer: The EKS cluster used to this lab is available on: [EKS Lab Cluster](https://github.com/diego7marques/eks-lab-cluster)
 
